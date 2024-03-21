@@ -176,4 +176,41 @@
     p {
         font-size: 13px !important;
     }
+    footer .tour {
+        width: 100%;
+    }
+    footer .pages{
+        width: 50%;
+    }
+    .section-p{
+        padding: 10px !important;
+    }
+    h4 {
+        font-size: 14px;
+        text-align: center;
+    }
+    .subscribe{
+        height: 35vh;
+    }
+    .cust-review {
+        align-items: center;
+        width: 85%;
+        margin: auto;
+        gap: 10px;
+     
+    }
+    .cust-review .box{
+        width: 45%;
+        margin: auto;
+    }
+    .cust-review .box h2 {
+        padding-bottom: 5px;
+        font-size: 20px;
+        color: rgb(89, 110, 126);
+    }
+    .cust-review .box  p {
+        padding-bottom: 5px;
+        font-size: 12px;
+       
+    }
 }
