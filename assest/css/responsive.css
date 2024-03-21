@@ -162,3 +162,18 @@
         font-size: 16px;
     }
 }
+@media (max-width:584px){
+    .service .service-container .right .box {
+        width: 48%;
+        padding: 15px 10px;
+        height: auto;
+        gap: 5px;
+       
+    }
+    h3 {
+        font-size: 16px;
+    }
+    p {
+        font-size: 13px !important;
+    }
+}
